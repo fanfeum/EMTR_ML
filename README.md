@@ -18,8 +18,10 @@ jupyer notebook
 ```
 * Open and run '1sesnor.ipynb':
 
-    * Specify which coordinante of the source to estimate (whether x- or y- coordinante)
-    * Specify the path to the source images and how many images to use for training and evaluation.
+    1. Specify the path to the source images and how many images to use for training and evaluation.
+    2. Specify which coordinante of the source to estimate (whether x- or y- coordinante).
+    3. Re-run the code for the other source coordiante.
+    4. The model's estimation for the source coordiantes along with the ground truth source positions will be automatically saved for further inference.
     
 
 ### Visualizing the evaluation results

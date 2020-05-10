@@ -26,8 +26,8 @@ jupyer notebook
 
 ### Visualizing the evaluation results
 
-Run 'figureMaker.m' using Matlab:
-* Using the saved model's outputs and the target positions, it will generate the followig plots:
+Run 'figureMaker.m' in Matlab:
+* Using the saved model's outputs and the target positions, this code will generate the followig plots:
     1. Estimation of the x- and y-coordinate of the randomly selected source locations.
     2. Histogram of the location error
     3. Average location error presented as a heatmap chart inside the detection region 

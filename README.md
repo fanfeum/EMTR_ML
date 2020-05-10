@@ -16,7 +16,11 @@ cd EMTR_ML
 ```
 jupyer notebook
 ```
-* Open and run '1sesnor.ipynb'
+* Open and run '1sesnor.ipynb':
+
+    * Specify which coordinante of the source to estimate (whether x- or y- coordinante)
+    * Specify the path to the source images and how many images to use for training and evaluation.
+    
 
 ### Visualizing the evaluation results
 

@@ -2,7 +2,7 @@
 Implementation of the hybrid EMTR/ML methods for a range of applications including electromagnetic source localization, source recunstruction, and microwave imaging. 
 
 ## 1. Single sensor EM Source localization using EMTR and deep transfer learning
-Please refer to [paper](https://rdcu.be/b345w) for detailed explanation of the method.
+Please refer to this [paper](https://rdcu.be/b345w) for detailed explanation of the method.
 ### Getting started
 
 Clone this repository:

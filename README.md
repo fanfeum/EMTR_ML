@@ -9,6 +9,10 @@ git clone git@github.com:fanfeum/EMTR_ML.git
 cd EMTR_ML
 ```
 
-## Loadig the data, extracting the feature vectors, and training the model
+## Loadig the dataset, extracting the feature vectors, and training the model
 
-All is implemented in '1sesnor.ipynb'
+Run '1sesnor.ipynb'
+
+## Visualizing the evaluation results
+
+Run 'figureMaker.m' using Matlab

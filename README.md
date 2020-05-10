@@ -10,8 +10,11 @@ cd EMTR_ML
 ```
 
 ## Loadig the dataset, extracting the feature vectors, and training the model
-
-Run '1sesnor.ipynb'
+Open jupyter notebook in the current directory
+```
+jupyer notebook
+```
+open and run '1sesnor.ipynb'
 
 ## Visualizing the evaluation results
 
